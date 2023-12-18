@@ -1,0 +1,22 @@
+body{
+    background-color: rgba(211, 148, 46, 0.872);
+}
+h3{
+    font-size: large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: italic;
+}
+h2{
+    color: rgb(161, 69, 12);
+}
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgba(16, 12, 10, 0.975);
+    font-style: italic;
+}
+h5{
+    color: antiquewhite;
+    font-weight: 100;
+    font-size: medium;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
